@@ -34,3 +34,4 @@ Inside that actor's .cpp file I was able to add the Function of Interact declare
 Inside Interactable_Actor's .cpp file:
 ![Interactable_Actor.cpp](image-6.png)
 
+![](Task4.gif)
