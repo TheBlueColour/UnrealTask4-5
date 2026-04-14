@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\unrealeditor\\inc\\task4_week5\\uht\\interactable_actor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\x64\\task4_week5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\task4_week5\\definitions.task4_week5.h",
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\source\\task4_week5\\interactable_actor.h",
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\source\\task4_week5\\myinterface.h",
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\unrealeditor\\inc\\task4_week5\\uht\\myinterface.generated.h",
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\unrealeditor\\inc\\task4_week5\\uht\\interactable_actor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

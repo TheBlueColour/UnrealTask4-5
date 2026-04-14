@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\task4_week5\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\x64\\task4_week5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\task4_week5\\definitions.task4_week5.h",
+            "c:\\program files\\epic games\\5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

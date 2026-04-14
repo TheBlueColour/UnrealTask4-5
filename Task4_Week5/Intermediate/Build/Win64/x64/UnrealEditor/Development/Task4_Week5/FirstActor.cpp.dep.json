@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\source\\task4_week5\\firstactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\x64\\task4_week5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\task4_week5\\definitions.task4_week5.h",
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\source\\task4_week5\\firstactor.h",
+            "c:\\program files\\epic games\\5.6\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\unrealeditor\\inc\\task4_week5\\uht\\firstactor.generated.h",
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\source\\task4_week5\\myinterface.h",
+            "c:\\users\\2506784\\documents\\unreal projects\\task4-5\\task4_week5\\intermediate\\build\\win64\\unrealeditor\\inc\\task4_week5\\uht\\myinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

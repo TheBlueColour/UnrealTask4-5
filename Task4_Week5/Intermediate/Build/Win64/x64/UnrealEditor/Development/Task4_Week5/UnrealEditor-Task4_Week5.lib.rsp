@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Task4_Week5.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/Task4_Week5Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/FirstActor.gen.cpp.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/Interactable_Actor.gen.cpp.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/MyInterface.gen.cpp.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/Task4_Week5.init.gen.cpp.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/FirstActor.cpp.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/Interactable_Actor.cpp.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/MyInterface.cpp.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/Task4_Week5.cpp.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/PerModuleInline.gen.cpp.obj"
+"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/Default.rc2.res"
+/OUT:"C:/Users/2506784/Documents/Unreal Projects/Task4-5/Task4_Week5/Intermediate/Build/Win64/x64/UnrealEditor/Development/Task4_Week5/UnrealEditor-Task4_Week5.lib"
