@@ -1081,3 +1081,227 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.18-15.44.50:709][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
 [2026.04.18-15.44.50:710][  0]LogLiveCoding: Display: First instance in process group "UE_Task4_Week5_0x09f89c10", spawning console
 [2026.04.18-15.44.50:735][  0]LogLiveCoding: Display: Waiting for server
+[2026.04.18-15.44.50:781][  0]LogSlate: Border
+[2026.04.18-15.44.50:781][  0]LogSlate: BreadcrumbButton
+[2026.04.18-15.44.50:781][  0]LogSlate: Brushes.Title
+[2026.04.18-15.44.50:781][  0]LogSlate: ColorPicker.ColorThemes
+[2026.04.18-15.44.50:781][  0]LogSlate: Default
+[2026.04.18-15.44.50:781][  0]LogSlate: Icons.Save
+[2026.04.18-15.44.50:781][  0]LogSlate: Icons.Toolbar.Settings
+[2026.04.18-15.44.50:781][  0]LogSlate: ListView
+[2026.04.18-15.44.50:781][  0]LogSlate: SoftwareCursor_CardinalCross
+[2026.04.18-15.44.50:781][  0]LogSlate: SoftwareCursor_Grab
+[2026.04.18-15.44.50:781][  0]LogSlate: TableView.DarkRow
+[2026.04.18-15.44.50:781][  0]LogSlate: TableView.Row
+[2026.04.18-15.44.50:781][  0]LogSlate: TreeView
+[2026.04.18-15.44.51:108][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.04.18-15.44.51:115][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 6.486 ms
+[2026.04.18-15.44.51:218][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2026.04.18-15.44.51:218][  0]LogInit: XR: MultiViewport is Disabled
+[2026.04.18-15.44.51:218][  0]LogInit: XR: Mobile Multiview is Disabled
+[2026.04.18-15.44.51:231][  0]LogTurnkeySupport: Turnkey Device: Win64@Zuzanna: (Name=Zuzanna, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.26200.0, Flags="Device_InstallSoftwareValid")
+[2026.04.18-15.44.51:261][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.04.18-15.44.51:383][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT: Selecting NPU adapter: AMD Radeon (TM) Graphics
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT: MakeRuntimeORTDml:
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT:   DirectML:  yes
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT:   RHI D3D12: yes
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT:   D3D12:     yes
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT:   NPU:       yes
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT: Interface availability:
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT:   GPU: yes
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT:   RDG: yes
+[2026.04.18-15.44.51:983][  0]LogNNERuntimeORT:   NPU: yes
+[2026.04.18-15.44.51:984][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.04.18-15.44.51:984][  0]LogNNERuntimeORT: Selecting NPU adapter: AMD Radeon (TM) Graphics
+[2026.04.18-15.44.52:562][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F74EF509712E4CEA8000000000003C00 | Instance: 4D86B00B4EFEEBC79E049AAF57CAD2E9 (ZUZANNA-13748).
+[2026.04.18-15.44.52:870][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2026.04.18-15.44.52:872][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2026.04.18-15.44.52:872][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51258'.
+[2026.04.18-15.44.52:877][  0]LogUdpMessaging: Display: Added local interface '192.168.0.222' to multicast group '230.0.0.1:6666'
+[2026.04.18-15.44.52:879][  0]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.18-15.44.52:891][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2026.04.18-15.44.53:126][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.04.18-15.44.53:127][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.04.18-15.44.53:145][  0]LogMetaSound: MetaSound Engine Initialized
+[2026.04.18-15.44.53:545][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.18-15.44.53:546][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.18-15.44.53:563][  0]LogTimingProfiler: Initialize
+[2026.04.18-15.44.53:566][  0]LogTimingProfiler: OnSessionChanged
+[2026.04.18-15.44.53:566][  0]LoadingProfiler: Initialize
+[2026.04.18-15.44.53:566][  0]LoadingProfiler: OnSessionChanged
+[2026.04.18-15.44.53:567][  0]LogNetworkingProfiler: Initialize
+[2026.04.18-15.44.53:569][  0]LogNetworkingProfiler: OnSessionChanged
+[2026.04.18-15.44.53:569][  0]LogMemoryProfiler: Initialize
+[2026.04.18-15.44.53:569][  0]LogMemoryProfiler: OnSessionChanged
+[2026.04.18-15.44.54:794][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2026.04.18-15.44.55:197][  0]SourceControl: Revision control is disabled
+[2026.04.18-15.44.55:232][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Icons/doc_16x.png' error.
+[2026.04.18-15.44.55:232][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2026.04.18-15.44.55:232][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2026.04.18-15.44.55:232][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/Icons/doc_16x.png]
+[2026.04.18-15.44.55:268][  0]SourceControl: Revision control is disabled
+[2026.04.18-15.44.55:826][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.04.18-15.44.55:859][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.04.18-15.44.55:859][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.04.18-15.44.56:134][  0]LogCollectionManager: Loaded 0 collections in 0.001698 seconds
+[2026.04.18-15.44.56:137][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Saved/Collections/' took 0.00s
+[2026.04.18-15.44.56:140][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/Developers/Zpawe/Collections/' took 0.00s
+[2026.04.18-15.44.56:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/Collections/' took 0.00s
+[2026.04.18-15.44.56:320][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2026.04.18-15.44.56:320][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2026.04.18-15.44.56:320][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png]
+[2026.04.18-15.44.56:320][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png]
+[2026.04.18-15.44.56:356][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Icons/doc_16x.png' error.
+[2026.04.18-15.44.56:356][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/Icons/doc_16x.png]
+[2026.04.18-15.44.56:356][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2026.04.18-15.44.56:356][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2026.04.18-15.44.56:379][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.17.0-41373641 booting at 2026-04-18T15:44:56.379Z using C
+[2026.04.18-15.44.56:381][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.26100.8115.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=Task4_Week5, ProductVersion=++UE5+Release-5.6-CL-44394996, IsServer=false, Flags=DisableOverlay]
+[2026.04.18-15.44.56:382][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.04.18-15.44.56:384][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2026.04.18-15.44.56:399][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2026.04.18-15.44.56:405][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2026.04.18-15.44.56:405][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2026.04.18-15.44.56:405][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000724
+[2026.04.18-15.44.56:406][  0]LogFab: Plugin initialized. VersionName: 0.0.12 (Version: 12) - Engine Version 5.6.1-44394996+++UE5+Release-5.6
+[2026.04.18-15.44.56:509][  0]LogUObjectArray: 42400 objects as part of root set at end of initial load.
+[2026.04.18-15.44.56:509][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.04.18-15.44.56:690][  0]LogEngine: Initializing Engine...
+[2026.04.18-15.44.56:908][  0]LogTedsSettings: UTedsSettingsEditorSubsystem::Initialize
+[2026.04.18-15.44.56:910][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2026.04.18-15.44.57:257][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.04.18-15.44.57:282][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2026.04.18-15.44.57:300][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.18-15.44.57:333][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.04.18-15.44.57:333][  0]LogInit: Texture streaming: Enabled
+[2026.04.18-15.44.57:379][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.6.1-44394996+++UE5+Release-5.6 )
+[2026.04.18-15.44.57:385][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.04.18-15.44.57:404][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.04.18-15.44.57:404][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.04.18-15.44.57:404][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.04.18-15.44.57:404][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.04.18-15.44.57:405][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.18-15.44.57:405][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.18-15.44.57:405][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.18-15.44.57:405][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.18-15.44.57:405][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.18-15.44.57:405][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.18-15.44.57:405][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.18-15.44.57:405][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.18-15.44.57:406][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.18-15.44.57:406][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.18-15.44.57:406][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.18-15.44.57:422][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.18-15.44.57:588][  0]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.04.18-15.44.57:591][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.18-15.44.57:592][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.18-15.44.57:593][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.18-15.44.57:595][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.18-15.44.57:595][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.18-15.44.57:597][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.18-15.44.57:597][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2026.04.18-15.44.57:597][  0]LogInit: FAudioDevice initialized with ID 1.
+[2026.04.18-15.44.57:600][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.04.18-15.44.57:601][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2026.04.18-15.44.57:618][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.04.18-15.44.57:623][  0]LogInit: Undo buffer set to 256 MB
+[2026.04.18-15.44.57:623][  0]LogInit: Transaction tracking system initialized
+[2026.04.18-15.44.57:645][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.18-15.44.57:813][  0]LocalizationService: Localization service is disabled
+[2026.04.18-15.44.58:048][  0]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1920"
+[2026.04.18-15.44.58:048][  0]LogCsvProfiler: Display: Metadata set : systemresolution.resy="1080"
+[2026.04.18-15.44.58:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/' took 0.02s
+[2026.04.18-15.44.58:215][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
+[2026.04.18-15.44.58:241][  0]LogPython: Python enabled via CVar 'Engine.Python.IsEnabledByDefault'
+[2026.04.18-15.44.58:241][  0]LogPython: Using Python 3.11.8
+[2026.04.18-15.44.58:287][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2026.04.18-15.44.58:817][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2026.04.18-15.44.59:102][  0]LogEditorDataStorage: Initializing
+[2026.04.18-15.44.59:107][  0]LogEditorDataStorage: Initialized
+[2026.04.18-15.44.59:127][  0]LogCore: Display: GameplayInsights module auto-connecting to local trace server...
+[2026.04.18-15.44.59:266][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.04.18-15.44.59:274][  0]SourceControl: Revision control is disabled
+[2026.04.18-15.44.59:274][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.592
+[2026.04.18-15.44.59:275][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.18-15.44.59:280][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-15.44.59:280][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-15.44.59:319][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.18-15.44.59:323][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.18-15.44.59:332][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2026.04.18-15.44.59:340][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.04.18-15.44.59:340][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.04.18-15.44.59:342][  0]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.18-15.44.59:343][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.18-15.44.59:343][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Untitled_1.Untitled_1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.18-15.44.59:543][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.04.18-15.44.59:563][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.04.18-15.44.59:572][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.04.18-15.44.59:580][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2026.04.18-15.44.59:580][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2026.04.18-15.44.59:580][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.04.18-15.44.59:589][  0]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2026.04.18-15.44.59:724][  0]LogWorldPartition: Display: WorldPartition initialize took 382.219 ms
+[2026.04.18-15.44.59:986][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.18-15.45.00:012][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.18-15.45.00:013][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.18-15.45.00:014][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.516ms to complete.
+[2026.04.18-15.45.00:032][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.350
+[2026.04.18-15.45.00:155][  0]LogPlacementMode: Display: The Asset Registry is not yet fully loaded so some placeable classes might be missing.
+[2026.04.18-15.45.00:225][  0]LogAssetRegistry: Display: Asset registry cache written as 66.9 MiB to ../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Intermediate/CachedAssetRegistry_*.bin
+[2026.04.18-15.45.00:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-15.45.00:484][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-15.45.00:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-15.45.00:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-15.45.00:850][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:851][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2026.04.18-15.45.00:852][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:853][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2026.04.18-15.45.00:854][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:854][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2026.04.18-15.45.00:855][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:856][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2026.04.18-15.45.00:858][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:860][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2026.04.18-15.45.00:860][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:861][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2026.04.18-15.45.00:862][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:863][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2026.04.18-15.45.00:864][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:864][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2026.04.18-15.45.00:865][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:866][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2026.04.18-15.45.00:867][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.18-15.45.00:867][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2026.04.18-15.45.01:643][  0]LogSlate: Took 0.001223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.04.18-15.45.01:646][  0]LogSlate: Took 0.000678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.04.18-15.45.01:727][  0]LogSlate: Took 0.001182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.04.18-15.45.04:302][  0]LogStall: Startup...
+[2026.04.18-15.45.04:304][  0]LogStall: Startup complete.
+[2026.04.18-15.45.04:329][  0]LogLoad: (Engine Initialization) Total time: 24.65 seconds
+[2026.04.18-15.45.05:391][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2026.04.18-15.45.05:391][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2026.04.18-15.45.05:471][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-15.45.05:475][  0]LoadErrors: Warning: While trying to load package /Engine/BasicShapes/Cube, a dependent package /Game/ThirdPerson/MI_ThirdPersonColWay was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ThirdPerson/MI_ThirdPersonColWay has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/ThirdPerson/MI_ThirdPersonColWay'. Perhaps it has been deleted or was not synced?
+
+[2026.04.18-15.45.05:481][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2026.04.18-15.45.05:581][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2026.04.18-15.45.05:589][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 108.561 ms
+[2026.04.18-15.45.05:727][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: Task4_Week5Editor Win64 Development
+[2026.04.18-15.45.06:139][  1]LogAssetRegistry: AssetRegistryGather time 1.5436s: AssetDataDiscovery 0.2300s, AssetDataGather 1.2216s, StoreResults 0.0920s. Wall time 17.7580s.
+	NumCachedDirectories 0. NumUncachedDirectories 1627. NumCachedFiles 0. NumUncachedFiles 7527.
+	BackgroundTickInterruptions 0.
+[2026.04.18-15.45.06:182][  1]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2026.04.18-15.45.06:207][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2026.04.18-15.45.06:209][  1]LogSourceControl: Uncontrolled asset discovery started...
+[2026.04.18-15.45.06:731][  2]LogSourceControl: Uncontrolled asset discovery finished in 0.521508 seconds (Found 7503 uncontrolled assets)
+[2026.04.18-15.45.06:889][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 9.942968
+[2026.04.18-15.45.06:892][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2026.04.18-15.45.06:896][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10.484412
+[2026.04.18-15.45.07:757][ 13]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.04.18-15.45.08:346][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 11.606873
+[2026.04.18-15.45.08:350][ 15]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1879824717
+[2026.04.18-15.45.08:350][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11.606873, Update Interval: 309.814758
