@@ -35,3 +35,7 @@ Inside Interactable_Actor's .cpp file:
 ![Interactable_Actor.cpp](image-6.png)
 
 ![](Task4.gif)
+
+The text is small but you are able to see the green text in the left upper hand corner show up as the Cone overlaps with the Sphere's Collision box. The cone is able to move with a ProjectileMovement in the Actor's Blueprint:
+
+![Actor's Blueprint Actor](image-7.png)
