@@ -1338,3 +1338,58 @@ FPackageName: Skipped package /Game/ThirdPerson/MI_ThirdPersonColWay has a valid
 [2026.04.18-15.47.35:403][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
 [2026.04.18-15.47.36:059][594]LogSlate: Took 0.000786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2026.04.18-15.47.36:066][594]LogSlate: Took 0.001486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.04.18-15.48.41:255][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.04.18-15.48.42:565][173]LogSlate: Window 'Save Content' being destroyed
+[2026.04.18-15.48.42:587][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-15.48.42:674][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameData] ([1] browsable assets)...
+[2026.04.18-15.48.42:674][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameData]
+[2026.04.18-15.48.42:674][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData" FILE="../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/GameData.uasset" SILENT=true
+[2026.04.18-15.48.42:677][173]LogSavePackage: Moving output files for package: /Game/GameData
+[2026.04.18-15.48.42:678][173]LogSavePackage: Moving '../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Saved/GameData499616214B0B3B91CF586CB1286E70F4.tmp' to '../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/GameData.uasset'
+[2026.04.18-15.48.42:680][173]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyFirstActor] ([2] browsable assets)...
+[2026.04.18-15.48.42:680][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFirstActor]
+[2026.04.18-15.48.42:680][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFirstActor" FILE="../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/MyFirstActor.uasset" SILENT=true
+[2026.04.18-15.48.42:702][173]LogSavePackage: Moving output files for package: /Game/MyFirstActor
+[2026.04.18-15.48.42:703][173]LogSavePackage: Moving '../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Saved/MyFirstActorC8397114431F52D572D7A8A67F7811CE.tmp' to '../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/MyFirstActor.uasset'
+[2026.04.18-15.48.42:788][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.129 ms (total: 316.313 ms)
+[2026.04.18-15.48.42:791][173]LogStreaming: Display: FlushAsyncLoading(672): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-15.48.42:813][173]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.04.18-15.48.42:833][173]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.18-15.48.42:833][173]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.18-15.48.42:834][173]LogWorldPartition: UWorldPartition::Initialize : World = /Game/NewMap.NewMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.18-15.48.42:873][173]LogWorldPartition: Display: WorldPartition initialize took 40.521 ms (total: 422.740 ms)
+[2026.04.18-15.48.42:883][173]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewMap.NewMap
+[2026.04.18-15.48.42:884][173]LogTexture: Display: Building textures: /Game/NewMap.NewMap:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture (TFO_AutoDXT VT, 2048x2048 x1x1x1) (Required Memory Estimate: 187.666666 MB), EncodeSpeed: Fast
+[2026.04.18-15.48.42:885][173]Cmd: MAP LOAD FILE="../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.18-15.48.42:985][173]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-15.48.42:993][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-15.48.42:993][173]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.04.18-15.48.43:056][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.18-15.48.43:122][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.04.18-15.48.43:133][173]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-15.48.43:133][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-15.48.43:133][173]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2026.04.18-15.48.43:168][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.04.18-15.48.43:202][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.04.18-15.48.43:209][173]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2026.04.18-15.48.43:210][173]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.04.18-15.48.43:221][173]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.18-15.48.43:221][173]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.18-15.48.43:221][173]LogWorldPartition: UWorldPartition::Initialize : World = /Game/NewMap.NewMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.18-15.48.43:599][173]LogWorldPartition: Display: WorldPartition initialize took 377.826 ms (total: 800.567 ms)
+[2026.04.18-15.48.43:835][173]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.18-15.48.43:869][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.04.18-15.48.43:880][173]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.18-15.48.43:883][173]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.06ms to complete.
+[2026.04.18-15.48.43:986][173]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.18-15.48.43:986][173]LogContentValidation: Enabled validators:
+[2026.04.18-15.48.43:986][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-15.48.43:986][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-15.48.43:986][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-15.48.43:986][173]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-15.48.43:986][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-15.48.43:986][173]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-15.48.43:986][173]AssetCheck: /Game/GameData Validating asset
+[2026.04.18-15.48.43:988][173]AssetCheck: /Game/MyFirstActor Validating asset
+[2026.04.18-15.48.44:010][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.18-15.48.44:663][174]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Saved/SourceControl/UncontrolledChangelists.json
