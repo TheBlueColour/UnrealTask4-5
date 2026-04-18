@@ -1305,3 +1305,36 @@ FPackageName: Skipped package /Game/ThirdPerson/MI_ThirdPersonColWay has a valid
 [2026.04.18-15.45.08:346][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 11.606873
 [2026.04.18-15.45.08:350][ 15]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1879824717
 [2026.04.18-15.45.08:350][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11.606873, Update Interval: 309.814758
+[2026.04.18-15.45.59:119][206]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.18-15.46.15:190][895]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2026.04.18-15.46.15:208][895]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2026.04.18-15.46.15:226][896]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2026.04.18-15.46.17:496][933]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> GameData
+[2026.04.18-15.46.17:699][933]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2026.04.18-15.46.20:622][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-15.46.20:689][ 26]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameData] ([1] browsable assets)...
+[2026.04.18-15.46.20:690][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameData]
+[2026.04.18-15.46.20:690][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData" FILE="../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/GameData.uasset" SILENT=true
+[2026.04.18-15.46.20:709][ 26]LogSavePackage: Moving output files for package: /Game/GameData
+[2026.04.18-15.46.20:709][ 26]LogSavePackage: Moving '../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Saved/GameData2A6E93894CDC80FC9215F699A01B6DAF.tmp' to '../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Content/GameData.uasset'
+[2026.04.18-15.46.20:736][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.184 ms
+[2026.04.18-15.46.20:803][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-15.46.20:803][ 26]LogContentValidation: Enabled validators:
+[2026.04.18-15.46.20:803][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-15.46.20:804][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-15.46.20:804][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-15.46.20:804][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-15.46.20:804][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-15.46.20:804][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-15.46.20:806][ 26]AssetCheck: /Game/GameData Validating asset
+[2026.04.18-15.46.20:844][ 26]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Zpawe/OneDrive/Documents/Unreal Projects/TestProjectTask5/Task45/Task4_Week5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.18-15.46.21:188][ 32]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/GameData.GameData
+[2026.04.18-15.46.32:452][173]LogSlate: Took 0.001064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.04.18-15.46.45:807][499]LogDerivedDataCache: C:/Users/Zpawe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.18-15.47.24:973][438]LogSlate: Window 'GameData' being destroyed
+[2026.04.18-15.47.33:074][594]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-15.47.33:322][594]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyFirstActor.MyFirstActor
+[2026.04.18-15.47.33:342][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.04.18-15.47.35:403][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.04.18-15.47.36:059][594]LogSlate: Took 0.000786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.04.18-15.47.36:066][594]LogSlate: Took 0.001486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
