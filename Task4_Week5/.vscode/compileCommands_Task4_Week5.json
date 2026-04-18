@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\FirstActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\.vscode\\compileCommands_Task4_Week5\\Task4_Week5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\FirstActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\.vscode\\compileCommands_Task4_Week5\\Task4_Week5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\Interactable_Actor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\.vscode\\compileCommands_Task4_Week5\\Task4_Week5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\Interactable_Actor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\.vscode\\compileCommands_Task4_Week5\\Task4_Week5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\MyInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\.vscode\\compileCommands_Task4_Week5\\Task4_Week5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\MyInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\.vscode\\compileCommands_Task4_Week5\\Task4_Week5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\Task4_Week5.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\.vscode\\compileCommands_Task4_Week5\\Task4_Week5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\Task4_Week5.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\.vscode\\compileCommands_Task4_Week5\\Task4_Week5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\Task4_Week5.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\.vscode\\compileCommands_Task4_Week5\\Task4_Week5.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]

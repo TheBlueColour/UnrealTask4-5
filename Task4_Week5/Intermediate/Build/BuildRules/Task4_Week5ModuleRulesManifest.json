@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\2506784\\Documents\\Unreal Projects\\Task4-5\\Task4_Week5\\Source\\Task4_Week5\\Task4_Week5.Build.cs",
-		"C:\\Users\\2506784\\Documents\\Unreal Projects\\Task4-5\\Task4_Week5\\Source\\Task4_Week5.Target.cs",
-		"C:\\Users\\2506784\\Documents\\Unreal Projects\\Task4-5\\Task4_Week5\\Source\\Task4_Week5Editor.Target.cs"
+		"C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5\\Task4_Week5.Build.cs",
+		"C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5.Target.cs",
+		"C:\\Users\\Zpawe\\OneDrive\\Documents\\Unreal Projects\\TestProjectTask5\\Task45\\Task4_Week5\\Source\\Task4_Week5Editor.Target.cs"
 	],
 	"EngineVersion": "5.6.1"
 }
