@@ -5,3 +5,7 @@ Within a website called Supabase i was able to create a callable datatable that 
 The table:
 ![The Table](image.png)
 
+The Http Request:
+
+![Http Request](image-1.png)
+
