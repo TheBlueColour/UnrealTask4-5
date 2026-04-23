@@ -1,5 +1,9 @@
 ## TASK 4 Interaction System
 
+## Name: Zuzanna Maria Pawelczyk
+
+## Student ID: 2506784
+
 For the task I created two actors, one with the interface and one without, when the actor overlaps with the interface a message should be sent out. 
 
 Inside the first actor that will contain the interface, in the .h I create the UProperty that is the Sphere Component that serves as the collision box, as well as the UFunction that creates the function that in the actor's .cpp checks if the actor inside the collision contains the CanInteract function, if it does, it will perform that actor's Interact function. In the actor I also made sure it includes the Interface I made. 
